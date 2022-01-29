@@ -690,7 +690,9 @@ h1, h2, h3, h4, h5, h6 {
   height: 280px;
   /* background: #37517e; */
   background-image: url(../img/sponsors_banner.jpg);
-  background-size: 1800px;
+  background-size: 4000px;
+  width: 100%;
+    height: auto;
 }
 
 #sponsor-header .container {
@@ -2888,4 +2890,7 @@ comp {
   font-weight: bold;
   
 
+}
+.form{
+  padding: auto;margin-bottom: 20px;
 }
